@@ -11,14 +11,14 @@ The findings are relevant for hotel managers in making pricing and reputation ma
 # Methods
 Regression Discontinuity Design.
 
-##Pros
+## Pros
 
 Leverages a "natural experiment" created by TripAdvisor's rounding mechanism (e.g., a score of 4.24 rounds to 4.0 bubbles, while 4.25 rounds to 4.5).
 By comparing hotels just below and just above the 4.25 score cutoff, we can isolate the effect of the rating change, as these hotels are likely very similar in all other aspects.
 
 Strong internal validity: the assumptions of the RD design are tested and verified.
 
-##Cons
+## Cons
 
 The effect is only estimated locally around the cutoff and may not apply to other rating thresholds (e.g., 3.5 vs 4.0).
 
