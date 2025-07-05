@@ -32,7 +32,7 @@ Source: https://data.mendeley.com/datasets/6t6nv9z9mm/1
 
 ## Requirements
 - R
-- R libraries:     tidyverse, readr, rdd, rddtools, rddensity, magrittr, rdrobust
+- R libraries: tidyverse, readr, rdd, rddtools, rddensity, magrittr, rdrobust
 
 ## How to Run
 1. Clone this repository.
