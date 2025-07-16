@@ -13,7 +13,7 @@ Regression Discontinuity Design.
 
 ## Pros
 
-Leverages a "natural experiment" created by TripAdvisor's rounding mechanism (e.g., a score of 4.24 rounds to 4.0 bubbles, while 4.25 rounds to 4.5).
+It leverages a "natural experiment" created by TripAdvisor's rounding mechanism (e.g., a score of 4.24 rounds to 4.0 bubbles, while 4.25 rounds to 4.5).
 By comparing hotels just below and just above the 4.25 score cutoff, we can isolate the effect of the rating change, as these hotels are likely very similar in all other aspects.
 
 Strong internal validity: the assumptions of the RD design are tested and verified.
