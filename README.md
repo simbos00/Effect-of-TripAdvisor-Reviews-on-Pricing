@@ -22,7 +22,7 @@ Strong internal validity: the assumptions of the RD design are tested and verifi
 
 The effect is only estimated locally around the cutoff and may not apply to other rating thresholds (e.g., 3.5 vs 4.0).
 
-Weak external validit: the city of Rome may not generalize to other markets and the results on the TripAdvisor platform may differ than other platoforms' results.
+Weak external validity: the city of Rome may not generalize to other markets and the results on the TripAdvisor platform may differ than other platoforms' results.
 
 
 # Dataset
